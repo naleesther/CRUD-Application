@@ -1,0 +1,86 @@
+{
+  "productList": [
+    {
+      "productName": "Refrigirator",
+      "category": "Electronics",
+      "freshness": "fresh",
+      "price": 35000,
+      "date": "2023-03-12T21:00:00.000Z",
+      "comment": "The white fridge",
+      "id": 1
+    },
+    {
+      "productName": "Television ",
+      "category": "Electronics",
+      "freshness": "fresh",
+      "price": 55000,
+      "date": "2023-03-14T21:00:00.000Z",
+      "comment": "Google T.V",
+      "id": 2
+    },
+    {
+      "productName": "Kales",
+      "category": "Vegetables",
+      "freshness": "fresh",
+      "price": 50,
+      "date": "2023-03-09T21:00:00.000Z",
+      "comment": "The fresh vegetables",
+      "id": 4
+    },
+    {
+      "productName": "Apples",
+      "category": "Fruits",
+      "freshness": "fresh",
+      "price": 100,
+      "date": "2023-02-28T21:00:00.000Z",
+      "comment": "The red apples",
+      "id": 5
+    },
+    {
+      "productName": "Watermelon",
+      "category": "Fruits",
+      "freshness": "fresh",
+      "price": 200,
+      "date": "2023-02-28T21:00:00.000Z",
+      "comment": "Red watermelons",
+      "id": 6
+    },
+    {
+      "productName": "Spinach ",
+      "category": "Vegetables",
+      "freshness": "fresh",
+      "price": 50,
+      "date": "2023-03-03T21:00:00.000Z",
+      "comment": "The fresh vegetables.",
+      "id": 7
+    },
+    {
+      "productName": "Woofer",
+      "category": "Electronics",
+      "freshness": "fresh",
+      "price": 20000,
+      "date": "2023-03-03T21:00:00.000Z",
+      "comment": "The best woofers.",
+      "id": 8
+    },
+    {
+      "productName": "Woofer",
+      "category": "Electronics",
+      "freshness": "fresh",
+      "price": 35000,
+      "date": "2023-03-04T21:00:00.000Z",
+      "comment": "The best woofers",
+      "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
